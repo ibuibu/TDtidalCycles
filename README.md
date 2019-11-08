@@ -1,2 +1,2 @@
 # TDtidalCycles
-touchdesigner tox for TidalCycle visualization
+It's tox for TidalCycle visualization。
