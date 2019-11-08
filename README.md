@@ -1,2 +1,2 @@
 # TDtidalCycles
-It's tox for TidalCycle visualization。
+It's TOX for TidalCycle visualization。
